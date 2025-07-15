@@ -1,10 +1,10 @@
-#Wind Turbine Failure Prediction using Neural Networks – ReneWind Project
+# Wind Turbine Failure Prediction using Neural Networks – ReneWind Project
 
-##Problem Statement
+## Problem Statement
 
 The objective of this project is to build and tune neural network classification models to predict **failures in wind turbines**. Early detection of failures can reduce maintenance costs by enabling timely **repairs** and avoiding **replacements**.
 
-###Nature of Predictions:
+### Nature of Predictions:
 
 - **True Positives (TP)**: Actual failures correctly predicted – **Repair Cost**
 - **False Negatives (FN)**: Failures missed by model – **Replacement Cost**
